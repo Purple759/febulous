@@ -82,3 +82,6 @@
 @@||production.cloudfront.docker.com^
 @@||ifconfig.me^$important
 @@||cometz.portail2-0.fr^$important
+@@||ocsp.sectigo.com^
+@@||cert.ssl.com^
+@@||embed.diagrams.net^
